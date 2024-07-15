@@ -1,1 +1,1 @@
-number = "+918344831661"
+number = "+91----------" #Enter phone number with Country code
